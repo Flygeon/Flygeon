@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
 </p>
 
-~~这里是**重构仙人 / 俺寻思之力 / 最压力AI之人**~~
+~~这里是**抽象大王** / **重构仙人 / 俺寻思之力 / 最压力AI之人**~~
 
-可爱（存疑）的男孩纸喵，平时喜欢折腾，经常整些没什么用的小项目，社恐desuwa，虽然有时候不像人类但应该还是比较友善的
+可爱（存疑）的**男孩纸**喵（~~也可以是**美少女**~~，~~亦或者是**猫娘**~~），平时喜欢折腾，经常整些没什么用的小项目，社恐desuwa，社交能力烂完了，虽然有时候不像人类但应该还是比较友善的，如果有机会的话还是希望能交些朋友的喵
+
+音游/GAL/东方project/Vocaloid わ 好きです
 </div>
 
 ## 我的贡献
