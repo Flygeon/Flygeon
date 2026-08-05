@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-### Flygeon · 独立建站爱好者 · 全栈兴趣开发者
+## Flygeon · 独立建站爱好者 · 全栈兴趣开发者
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -32,4 +32,16 @@
 
 🐙 GitHub：你已经在这了
 
+## 如何联系我
+
+QQ：2972632024
+
+Email：Salt@flygeon.top
+
+<div align="center">
+  
+### 音无结弦之时，悦动天使之心； 立于浮华之世，奏响天籁之音。
+
 **All done.**
+
+</div>
