@@ -20,21 +20,21 @@
 
 可爱（存疑）的**男孩纸**喵（~~也可以是**美少女**~~，~~亦或者是**猫娘**~~），平时喜欢折腾，经常整些没什么用的小项目，社恐desuwa，社交能力烂完了，虽然有时候不像人类但应该还是比较友善的，如果有机会的话还是希望能交些朋友的喵
 
-音游/GAL/东方project/Vocaloid わ 好きです
+💗音游/GAL/东方project/Vocaloid わ 好きです💗
 </div>
 
-## 我的贡献
+## 我的贡献 / My Contributions
  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Flygeon&show_icons=true&theme=radical)
 
- ## 神秘小链接
+ ## 神秘小链接 / Links
  
-🌐 博客：Flygeon.top
+🌐 博客(Blog)：Flygeon.top
 
-📺 B 站：space.bilibili.com/497846789
+📺 B 站(bilibili)：space.bilibili.com/497846789
 
 🐙 GitHub：你已经在这了
 
-## 如何联系我
+## 如何联系我 / How to Reach Me
 
 QQ：2972632024
 
