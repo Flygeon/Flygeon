@@ -24,15 +24,15 @@
 </div>
 
 ## 我的贡献 / My Contributions
- ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Flygeon&show_icons=true&theme=radical)
+ ![Flygeon's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Flygeon&show_icons=true&theme=radical)
 
- ## 神秘小链接 / Links
- 
-🌐 博客(Blog)：Flygeon.top
+## 神秘小链接 / Links
 
-📺 B 站(bilibili)：space.bilibili.com/497846789
+🌐 博客 Blog：[Flygeon.top](https://flygeon.top)
 
-🐙 GitHub：你已经在这了
+📺 B 站 Bilibili：[space.bilibili.com/497846789](https://space.bilibili.com/497846789)
+
+🐙 GitHub：你已经在这了 / you're already here
 
 ## 如何联系我 / How to Reach Me
 
