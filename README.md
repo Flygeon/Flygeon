@@ -29,17 +29,11 @@
 
 ## 神秘小链接 / Links
 
-🌐 博客 Blog：[Flygeon.top](https://flygeon.top)
-
-📺 B 站 Bilibili：[space.bilibili.com/497846789](https://space.bilibili.com/497846789)
-
-🐙 GitHub：你已经在这了 / you're already here
+🌐 [博客](https://flygeon.top)    📺 B 站 Bilibili：[bilibili](https://space.bilibili.com/497846789)
 
 ## 如何联系我 / How to Reach Me
 
-QQ：2972632024
-
-Email：Salt@flygeon.top
+QQ：2972632024    Email：Salt@flygeon.top
 
 <div align="center">
   
